@@ -1,0 +1,186 @@
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form1.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfo.cs
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.exe
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.deps.json
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.json
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.dev.json
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\ref\goruntuısleme2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.pdb
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CopyComplete
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\ref\goruntuısleme2.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.pdb
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.genruntimeconfig.cache
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Properties.Resources.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.griTon.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AnaMenu.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kontrast_parlaklik.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Histogram.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Filtreler.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Edge.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form2.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl1.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji_2.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl2.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.watershed.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kesk.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.stitch.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.grabCut.resources
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.TF.Netstandard.dll
+C:\Users\muham\source\repos\goruntuısleme2\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.AssemblyReference.cache
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.exe
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.deps.json
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.json
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.dev.json
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\ref\goruntuısleme2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.pdb
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.TF.Netstandard.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.AssemblyReference.cache
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AnaMenu.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Edge.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Filtreler.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form1.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form2.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.grabCut.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.griTon.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Histogram.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kesk.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kontrast_parlaklik.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji_2.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Properties.Resources.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.stitch.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl1.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl2.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.watershed.resources
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.GenerateResource.cache
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfoInputs.cache
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfo.cs
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CoreCompileInputs.cache
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CopyComplete
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\ref\goruntuısleme2.dll
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.pdb
+D:\GÖRÜNTÜ İŞLEME FİNAL\ikinci öğretim\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.genruntimeconfig.cache
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.exe
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.deps.json
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.json
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.runtimeconfig.dev.json
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\ref\goruntuısleme2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\goruntuısleme2.pdb
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Platform.NetStandard.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Emgu.TF.Netstandard.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\System.Drawing.Common.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg455_64.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg455.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AnaMenu.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Edge.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Filtreler.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form1.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Form2.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.grabCut.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.griTon.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Histogram.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kesk.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Kontrast_parlaklik.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Morfoloji_2.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.Properties.Resources.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.stitch.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl1.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.UserControl2.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.watershed.resources
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.AssemblyInfo.cs
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.csproj.CopyComplete
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\ref\goruntuısleme2.dll
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.pdb
+C:\Users\muham\Desktop\193312055_Muhammed_Tekdemir\goruntuısleme2\obj\Debug\net5.0-windows\goruntuısleme2.genruntimeconfig.cache

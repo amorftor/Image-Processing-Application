@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Edge.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Filtreler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="grabCut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="griTon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Histogram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Kesk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Kontrast_parlaklik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Morfoloji.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Morfoloji_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="stitch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="watershed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
